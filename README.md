@@ -2,9 +2,10 @@
 
 Vzorčni repozitorij za projekt pri predmetu APPR v študijskem letu 2021/22. 
 
-## Tematika
+## Vpliv inflacije na socialno stanje prebivalstva v Evropi
 
-Izbrali si boste temo, s katero se bo vaš projekt ukvarjal.
+Analiziral bom, kakšen vpliv ima inflacija na socialno stanje prebivalstva v evropskih državah. Osredotočil se bom na iskanje povezave med inflacijo in socialnimi kazalniki, kot so na primer stopnja brezposelnosti, stopnja tveganja za revščino, spreminjanje bruto/neto plač in povprečna potrošnja gopodinstev. pri tem bom kot kazalnik infacije uporabil index HCIP(Harmonised Index of Consumer Prices) - Harmonizirani indeks cen življenjskih potrebščin.
+
 Tukaj boste napisali, kje ste dobili podatke, ter kakšen je vaš cilj.
 
 ## Program
