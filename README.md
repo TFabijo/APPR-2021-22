@@ -2,11 +2,18 @@
 
 Vzorčni repozitorij za projekt pri predmetu APPR v študijskem letu 2021/22. 
 
-## Vpliv inflacije na socialno stanje prebivalstva v Evropi
+## analiza inflacije in brezposelosti v Evropi
 
-Analiziral bom, kakšen vpliv ima inflacija na socialno stanje prebivalstva v evropskih državah. Osredotočil se bom na iskanje povezave med inflacijo in socialnimi kazalniki, kot so na primer stopnja brezposelnosti, stopnja tveganja za revščino, spreminjanje bruto/neto plač in povprečna potrošnja gopodinstev. pri tem bom kot kazalnik infacije uporabil index HCIP(Harmonised Index of Consumer Prices) - Harmonizirani indeks cen življenjskih potrebščin.
+Analiziral bom, kakšen vpliv ima inflacija na brezposelost v evropskih državah. Osredotočil se bom na iskanje povezave med inflacijo in brezposelostjo. pri tem bom kot kazalnik infacije uporabil index HCIP(Harmonised Index of Consumer Prices) - Harmonizirani indeks cen življenjskih potrebščin. pred tem bom nardil osnovno časovno analizo inflaciske stopnje po državah in jo med nnjimi primerjal. Podobno bo sledila časovna anliza stopenj brezposelosti v državah. Na koncu pa bom pri vsaki državi iskal korelacijo med inflacijo in brezposelostjo.
 
-Tukaj boste napisali, kje ste dobili podatke, ter kakšen je vaš cilj.
+### Viri
+Eurostat:
+https://ec.europa.eu/eurostat/data/database
+
+### Tabele
+- Tabela inflaciskih stopenj po državah
+- Tabela stopenj brezposelosti po državah
+
 
 ## Program
 
