@@ -2,7 +2,7 @@
 
 Vzorčni repozitorij za projekt pri predmetu APPR v študijskem letu 2021/22. 
 
-## vpliv inflacije
+## vplivi inflacije
 
 Analiziral bom, kakšen vpliv ima inflacija na brezposelost, rast plač in rast BDP-ja v evropskih državah. Pri tem bom kot kazalnik infacije uporabil index HCIP(Harmonised Index of Consumer Prices) - Harmonizirani indeks cen življenjskih potrebščin. pred tem bom nardil osnovno časovno analizo inflaciske stopnje,brezposelosti, rast plač in BDP-ja po državah in jih primerjal med njim, s tem bom izvedel ali dinamika padanja oziroma naraščanja po evropskih državah podobna. Podobno bo sledila časovna anliza stopenj. Na koncu pa bom pri vsaki državi iskal korelacijo med inflacijo in ostalimi faktorji.
 
