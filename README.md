@@ -2,9 +2,9 @@
 
 Vzorčni repozitorij za projekt pri predmetu APPR v študijskem letu 2021/22. 
 
-## analiza inflacije in brezposelosti v Evropi
+## vpliv inflacije
 
-Analiziral bom, kakšen vpliv ima inflacija na brezposelost v evropskih državah. Osredotočil se bom na iskanje povezave med inflacijo in brezposelostjo. pri tem bom kot kazalnik infacije uporabil index HCIP(Harmonised Index of Consumer Prices) - Harmonizirani indeks cen življenjskih potrebščin. pred tem bom nardil osnovno časovno analizo inflaciske stopnje po državah in jo med nnjimi primerjal. Podobno bo sledila časovna anliza stopenj brezposelosti v državah. Na koncu pa bom pri vsaki državi iskal korelacijo med inflacijo in brezposelostjo.
+Analiziral bom, kakšen vpliv ima inflacija na brezposelost, rast plač in rast BDP-ja v evropskih državah. Pri tem bom kot kazalnik infacije uporabil index HCIP(Harmonised Index of Consumer Prices) - Harmonizirani indeks cen življenjskih potrebščin. pred tem bom nardil osnovno časovno analizo inflaciske stopnje,brezposelosti, rast plač in BDP-ja po državah in jih primerjal med njim, s tem bom izvedel ali dinamika padanja oziroma naraščanja po evropskih državah podobna. Podobno bo sledila časovna anliza stopenj. Na koncu pa bom pri vsaki državi iskal korelacijo med inflacijo in ostalimi faktorji.
 
 ### Viri
 Eurostat:
@@ -12,7 +12,14 @@ https://ec.europa.eu/eurostat/data/database
 
 ### Tabele
 - Tabela inflaciskih stopenj po državah
+    - stolpci: država,leto,stopnja inflacije
 - Tabela stopenj brezposelosti po državah
+    - stolpci: država, leto, stopnja brezposelosti
+- Tabela povprečne in medianske plače
+    - stolpci: država, leto, povprečna plača,medianska plača
+- Tabela rasti BDP-ja
+    - stolpci: država, leto, letna rast BDP-ja
+
 
 
 ## Program
